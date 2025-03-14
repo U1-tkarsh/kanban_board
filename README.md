@@ -17,16 +17,21 @@ To start the application, run:
 npm start
 
 # Features
-# Add Boards & Cards: Click on "Add Board" to create a new board, then click "Add Card" to add tasks.
-# Drag & Drop: Move cards between boards using drag-and-drop.
-# Card Details: Click on any card to edit its description, tasks, and other details.
-# Search Functionality: Click on the search icon at the top and type a keyword. Only matching cards will be displayed, while others remain hidden.
-# Pure CSS for Styling: Instead of external libraries like Material UI (MUI), Pure CSS is used for better customization.
+ Add Boards & Cards: Click on "Add Board" to create a new board, then click "Add Card" to add tasks.
+
+ Drag & Drop: Move cards between boards using drag-and-drop.
+
+ Card Details: Click on any card to edit its description, tasks, and other details.
+
+ Search Functionality: Click on the search icon at the top and type a keyword. Only matching cards will be displayed, while others remain hidden.
+
+ Pure CSS for Styling: Instead of external libraries like Material UI (MUI), Pure CSS is used for better customization.
 
 # Technologies Used
-# Frontend: React.js
-# State Management: useState, useEffect
-# Storage: Local Storage
+
+ Frontend: React.js
+ State Management: useState, useEffect
+ Storage: Local Storage
 
 # Contributing
 Feel free to fork this repository and make improvements. Pull requests are welcome!
